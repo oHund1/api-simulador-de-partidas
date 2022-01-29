@@ -1,19 +1,200 @@
 [
   {
-    "descricao": "Campeonato Gaúcho 2022",
+    "descricao": "Campeonato Gaúcho - Primeira Fase - Rodada 1",
     "local": {
-      "nome":"TODO"
+      "nome":"Alfredo Jaconi"
       "imagem":"TODO"
     },
     "mandante": {
-      "nome": "TODO"
-      "forca": "TODO"
+      "nome": "Juventude "
+      "forca": "5"
       "imagem": "TODO"
     },
     "visitante": {
-      "nome": "TODO"
-      "forca": "TODO"
+      "nome": "Inter"
+      "forca": "5"
       "imagem": "TODO"
     }
   }
+  
+  {
+    "descricao": "Campeonato Gaúcho - Primeira Fase - Rodada 2",
+    "local": {
+      "nome":"Beira-rio"
+      "imagem":"TODO"
+    },
+    "mandante": {
+      "nome": "Inter"
+      "forca": "5"
+      "imagem": "TODO"
+    },
+    "visitante": {
+      "nome": "União Frederiquense"
+      "forca": "3"
+      "imagem": "TODO"
+    }
+  }
+
+{
+    "descricao": "Campeonato Gaúcho - Primeira Fase - Rodada 3",
+    "local": {
+      "nome":"19 de Outubro"
+      "imagem":"TODO"
+    },
+    "mandante": {
+      "nome": "São Luiz"
+      "forca": "3"
+      "imagem": "TODO"
+    },
+    "visitante": {
+      "nome": "Inter "
+      "forca": "5"
+      "imagem": "TODO"
+    }
+  }
+  
+  {
+    "descricao": "Campeonato Gaúcho - Primeira Fase - Rodada 4",
+    "local": {
+      "nome":"Colosso da Lagoa"
+      "imagem":"TODO"
+    },
+    "mandante": {
+      "nome": "Ypiranga"
+      "forca": "4"
+      "imagem": "TODO"
+    },
+    "visitante": {
+      "nome": "Inter"
+      "forca": "5"
+      "imagem": "TODO"
+    }
+  }
+
+{
+    "descricao": "Campeonato Gaúcho - Primeira Fase - Rodada 5",
+    "local": {
+      "nome":"Beira-Rio"
+      "imagem":"TODO"
+    },
+    "mandante": {
+      "nome": "Inter"
+      "forca": "5"
+      "imagem": "TODO"
+    },
+    "visitante": {
+      "nome": "Novo Hamburgo"
+      "forca": "4"
+      "imagem": "TODO"
+    }
+  }
+  
+  {
+    "descricao": "Campeonato Gaúcho - Primeira Fase - Rodada 6",
+    "local": {
+      "nome":"Centenário"
+      "imagem":"TODO"
+    },
+    "mandante": {
+      "nome": "Caxias"
+      "forca": "4"
+      "imagem": "TODO"
+    },
+    "visitante": {
+      "nome": "Inter"
+      "forca": "5"
+      "imagem": "TODO"
+    }
+  }
+
+{
+    "descricao": "Campeonato Gaúcho - Primeira Fase - Rodada 7",
+    "local": {
+      "nome":"Beira-Rio"
+      "imagem":"TODO"
+    },
+    "mandante": {
+      "nome": "Inter"
+      "forca": "5"
+      "imagem": "TODO"
+    },
+    "visitante": {
+      "nome": "Brasil de Pelotas"
+      "forca": "4"
+      "imagem": "TODO"
+    }
+  }
+  
+  {
+    "descricao": "Campeonato Gaúcho - Primeira Fase - Rodada 8",
+    "local": {
+      "nome":"Passo d'Areia"
+      "imagem":"TODO"
+    },
+    "mandante": {
+      "nome": "São José"
+      "forca": "4"
+      "imagem": "TODO"
+    },
+    "visitante": {
+      "nome": "Inter"
+      "forca": "5"
+      "imagem": "TODO"
+    }
+  }
+
+{
+    "descricao": "Campeonato Gaúcho - Primeira Fase - Rodada 9",
+    "local": {
+      "nome":"Beira-Rio"
+      "imagem":"TODO"
+    },
+    "mandante": {
+      "nome": "Inter"
+      "forca": "5"
+      "imagem": "TODO"
+    },
+    "visitante": {
+      "nome": "Grêmio"
+      "forca": "5"
+      "imagem": "TODO"
+    }
+  }
+  
+  {
+    "descricao": "Campeonato Gaúcho - Primeira Fase - Rodada 10",
+    "local": {
+      "nome":"Beira-Rio"
+      "imagem":"TODO"
+    },
+    "mandante": {
+      "nome": "Inter"
+      "forca": "5"
+      "imagem": "TODO"
+    },
+    "visitante": {
+      "nome": "Aimoré"
+      "forca": "3"
+      "imagem": "TODO"
+    }
+  }
+
+{
+    "descricao": "Campeonato Gaúcho - Primeira Fase - Rodada 11",
+    "local": {
+      "nome":"Antônio Magalhães Rossel"
+      "imagem":"TODO"
+    },
+    "mandante": {
+      "nome": "Guarany"
+      "forca": "3"
+      "imagem": "TODO"
+    },
+    "visitante": {
+      "nome": "Inter"
+      "forca": "5"
+      "imagem": "TODO"
+    }
+  }
+
 ]
