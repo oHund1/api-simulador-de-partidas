@@ -3,17 +3,17 @@
     "descricao": "Campeonato Gaúcho - Primeira Fase - Rodada 1",
     "local": {
       "nome":"Alfredo Jaconi"
-      "imagem":"TODO"
+      "imagem":"C:\Users\Carlos Eduardo\Desktop\app\imagens\Estádios\Alfredo Jaconi.jpg"
     },
     "mandante": {
       "nome": "Juventude "
       "forca": 5
-      "imagem": "TODO"
+      "imagem": "C:\Users\Carlos Eduardo\Desktop\app\imagens\Logos\Juventude.png"
     },
     "visitante": {
       "nome": "Internacional"
       "forca": 5
-      "imagem": "TODO"
+      "imagem": "C:\Users\Carlos Eduardo\Desktop\app\imagens\Logos\Internacional.png"
     }
   }
   
