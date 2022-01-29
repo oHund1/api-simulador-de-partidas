@@ -7,12 +7,12 @@
     },
     "mandante": {
       "nome": "Juventude "
-      "forca": "5"
+      "forca": 5
       "imagem": "TODO"
     },
     "visitante": {
       "nome": "Internacional"
-      "forca": "5"
+      "forca": 5
       "imagem": "TODO"
     }
   }
@@ -25,12 +25,12 @@
     },
     "mandante": {
       "nome": "Internacional"
-      "forca": "5"
+      "forca": 5
       "imagem": "TODO"
     },
     "visitante": {
       "nome": "União Frederiquense"
-      "forca": "3"
+      "forca": 3
       "imagem": "TODO"
     }
   }
@@ -43,12 +43,12 @@
     },
     "mandante": {
       "nome": "São Luiz"
-      "forca": "3"
+      "forca": 3
       "imagem": "TODO"
     },
     "visitante": {
       "nome": "Internacional"
-      "forca": "5"
+      "forca": 5
       "imagem": "TODO"
     }
   }
@@ -61,12 +61,12 @@
     },
     "mandante": {
       "nome": "Ypiranga"
-      "forca": "4"
+      "forca": 4
       "imagem": "TODO"
     },
     "visitante": {
       "nome": "Internacional"
-      "forca": "5"
+      "forca": 5
       "imagem": "TODO"
     }
   }
@@ -79,12 +79,12 @@
     },
     "mandante": {
       "nome": "Internacional"
-      "forca": "5"
+      "forca": 5
       "imagem": "TODO"
     },
     "visitante": {
       "nome": "Novo Hamburgo"
-      "forca": "4"
+      "forca": 4
       "imagem": "TODO"
     }
   }
@@ -97,12 +97,12 @@
     },
     "mandante": {
       "nome": "Caxias"
-      "forca": "4"
+      "forca": 4
       "imagem": "TODO"
     },
     "visitante": {
       "nome": "Internacional"
-      "forca": "5"
+      "forca": 5
       "imagem": "TODO"
     }
   }
@@ -115,12 +115,12 @@
     },
     "mandante": {
       "nome": "Internacional"
-      "forca": "5"
+      "forca": 5
       "imagem": "TODO"
     },
     "visitante": {
       "nome": "Brasil de Pelotas"
-      "forca": "4"
+      "forca": 4
       "imagem": "TODO"
     }
   }
@@ -133,12 +133,12 @@
     },
     "mandante": {
       "nome": "São José"
-      "forca": "4"
+      "forca": 4
       "imagem": "TODO"
     },
     "visitante": {
       "nome": "Internacional"
-      "forca": "5"
+      "forca": 5
       "imagem": "TODO"
     }
   }
@@ -151,12 +151,12 @@
     },
     "mandante": {
       "nome": "Internacional"
-      "forca": "5"
+      "forca": 5
       "imagem": "TODO"
     },
     "visitante": {
       "nome": "Grêmio"
-      "forca": "5"
+      "forca": 5
       "imagem": "TODO"
     }
   }
@@ -169,12 +169,12 @@
     },
     "mandante": {
       "nome": "Internacional"
-      "forca": "5"
+      "forca": 5
       "imagem": "TODO"
     },
     "visitante": {
       "nome": "Aimoré"
-      "forca": "3"
+      "forca": 3
       "imagem": "TODO"
     }
   }
@@ -187,12 +187,12 @@
     },
     "mandante": {
       "nome": "Guarany"
-      "forca": "3"
+      "forca": 3
       "imagem": "TODO"
     },
     "visitante": {
       "nome": "Internacional"
-      "forca": "5"
+      "forca": 5
       "imagem": "TODO"
     }
   }
