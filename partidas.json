@@ -1,1 +1,19 @@
-
+[
+  {
+    "descricao": "Campeonato Gaúcho 2022",
+    "local": {
+      "nome":"TODO"
+      "imagem":"TODO"
+    },
+    "mandante": {
+      "nome": "TODO"
+      "forca": "TODO"
+      "imagem": "TODO"
+    },
+    "visitante": {
+      "nome": "TODO"
+      "forca": "TODO"
+      "imagem": "TODO"
+    }
+  }
+]
